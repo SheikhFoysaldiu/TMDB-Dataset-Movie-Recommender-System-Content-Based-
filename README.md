@@ -1,7 +1,7 @@
 # Movie-Recommender-System-Content-Based-Approach
 Making a Movie Recommender System And Deploy It on Server. Data is Collected From Keggle. I used TMDB 5000 Movie Dataset For this Project.
 # Final Output
-![image info]([https://github.com/SheikhFoysaldiu/TMDB-Dataset-Movie-Recommender-System-Content-Based-/blob/master/recommender.mp4](https://raw.githubusercontent.com/SheikhFoysaldiu/TMDB-Dataset-Movie-Recommender-System-Content-Based-/master/recommender.mp4)https://raw.githubusercontent.com/SheikhFoysaldiu/TMDB-Dataset-Movie-Recommender-System-Content-Based-/master/recommender.mp4)
+![image info](https://raw.githubusercontent.com/SheikhFoysaldiu/TMDB-Dataset-Movie-Recommender-System-Content-Based-/master/recommender.mp4)
 
 
 # Recommendation System
